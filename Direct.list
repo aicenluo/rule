@@ -31,6 +31,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 #PT网站（直连访问）
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,hdmayi.com
 DOMAIN-SUFFIX,hdvideo.one
