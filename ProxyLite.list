@@ -3,6 +3,9 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
+#跨境专用台式机（局域网）
+SRC-IP-CIDR,192.168.100.220/32
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
